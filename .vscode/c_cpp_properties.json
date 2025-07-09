@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+          "/home/yoo/PROJECT/tracktor-beam/install/px4_ros2_cpp/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/install/px4_msgs/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/install/image_geometry/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/install/cv_bridge/include/**",
+          "/opt/ros/humble/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/examples/cpp/modes/fw_attitude/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/examples/cpp/modes/goto/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/examples/cpp/modes/goto_global/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/examples/cpp/modes/manual/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/examples/cpp/modes/mode_with_executor/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/examples/cpp/modes/rtl_replacement/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/examples/cpp/navigation/global_navigation/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/examples/cpp/navigation/local_navigation/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/px4-ros2-interface-lib/px4_ros2_cpp/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/vision_opencv/cv_bridge/include/**",
+          "/home/yoo/PROJECT/tracktor-beam/src/vision_opencv/image_geometry/include/**",
+          "/usr/include/**",
+          "/usr/local/include/opencv4"
+      ],
+
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++17"
+
+    }
+  ],
+  "version": 4
+}
