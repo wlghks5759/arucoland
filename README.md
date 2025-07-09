@@ -192,6 +192,14 @@ arucoland/
 └── README.md
 ```
 
+### 🚀 Final Step
+
+1. Launch **QGroundControl (QGC)**.
+2. Arm the drone and take off to a safe altitude.
+3. Switch to **Mission** or **Offboard** mode as required.
+4. Click the **"ArUco Precision Landing"** banner.
+5. ✅ Done! The drone will begin precision landing using ArUco markers.
+
  ### Tips
 
     Be careful with version mismatches between ROS, Gazebo, and ros_gz.
