@@ -139,6 +139,12 @@ Replace or create the file aruco.sdf with the following content
 
 ## 🚀 How to Run
 
+### 1️⃣ Terminal 0 — Colcon build
+```bash
+cd ~/path/to/your/arucoland
+colcon build
+```
+
 ### 1️⃣ Terminal 1 — Launch PX4 SITL
 ```bash
 cd ~/path/to/PX4-Autopilot
