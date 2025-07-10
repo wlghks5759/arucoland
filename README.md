@@ -187,16 +187,6 @@ ros2 run precise_land precise_land
 rviz2
 ```
 
-### 📁 Directory Structure (optional)
-```bash
-arucoland/
-├── aruco_detector/         # ArUco marker detector ROS 2 node
-├── precise_land/           # Precision landing controller node
-├── install/                # Colcon install folder (after build)
-├── src/                    # Source code
-├── .vscode/ (delete this!)
-└── README.md
-```
 
 ### 🚀 Final Step
 
